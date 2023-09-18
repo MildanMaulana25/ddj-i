@@ -1,0 +1,15 @@
+.header{
+    background-color: black;
+}
+h1{
+    color: aliceblue;
+    text-align: center;
+}
+body{
+    background-color: rgb(109, 129, 146);
+}
+.content{
+    max-width: 8000px;
+    background-color: aliceblue;
+    border-radius: 5px;
+}
